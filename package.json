@@ -1,0 +1,19 @@
+{
+  "name": "dataviz",
+  "version": "1.0.0",
+  "description": "data representation",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/praveenkondani/DataViz.git"
+  },
+  "author": "Praveen Kondani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/praveenkondani/DataViz/issues"
+  },
+  "homepage": "https://github.com/praveenkondani/DataViz#readme"
+}
