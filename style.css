@@ -1,4 +1,7 @@
 .mainHeading{
     font-size: 16px;
-    color: blue;
+    color: #FFF;
+    background-color: #2196F3;
+    padding: 8px;
+    text-align: center;
 }
