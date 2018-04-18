@@ -132,3 +132,9 @@
 .rawData code{
     color: #333;
 }
+.processData{
+    display: none;
+}
+.dateRepresent{
+    display: none;
+}

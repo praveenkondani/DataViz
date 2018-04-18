@@ -4,7 +4,6 @@ var showSpinner = function(){
 var hideSpinner = function(){
     $("#spinnerLoad").css("display", "none");
 }
-$(".processData").css("display", "none");
 setTimeout(hideSpinner,2000);
 
 $(".hero-box").click(function(){
