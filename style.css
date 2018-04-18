@@ -60,6 +60,7 @@
     max-width: 1230px;
     margin: 0 auto;
     margin-top: 12px;
+    margin-bottom: 16px;
 }
 .Box {
     background-color: #f7f7f7;
@@ -116,4 +117,18 @@
 }
 .octicon {
     vertical-align: text-bottom;
+}
+.active-box{
+    background-color: #007bff40;
+}
+.dataVizBox{
+    margin: 0 auto;
+    max-width: 1230px;
+}
+.rawData{
+    text-align: center;
+    border: 1px solid #CCC;
+}
+.rawData code{
+    color: #333;
 }
