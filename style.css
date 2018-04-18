@@ -1,14 +1,23 @@
+.mainBody{
+    width: fit-content;
+}
 .mainHeading{
     font-size: 22px;
     color: #1c85da;
-    /* background-color: #F6F8FA; */
     background-color: #fdfeff;
     padding: 8px 12px 8px 12px;
+    -webkit-box-shadow: 2px 2px 4px 1px rgba(163,163,163,1);
+    -moz-box-shadow: 2px 2px 4px 1px rgba(163,163,163,1);
+    box-shadow: 2px 2px 4px 1px rgba(163,163,163,1);
 }
 .menuSpace{
     float: right;
     margin-top: 12px;
     margin-right: 42px;
+}
+.logoSpace{
+    display: inline;
+    cursor: pointer;
 }
 .menuSpace ul{
     display: inline;
@@ -16,6 +25,7 @@
 .menuSpace ul li{
     display: inline;
     margin: 0px 12px;
+    cursor: pointer;
 }
 #spinnerLoad{
     position: absolute;
@@ -75,6 +85,10 @@
     color: #24292e;
     font-size: 38px;
     font-weight: 300;
+}
+.hero-box .hero-box-icon svg{
+    height: 80px;
+    width: 70px;
 }
 .hero-box:nth-child(1) .hero-box-icon svg{
     color: #795548;
